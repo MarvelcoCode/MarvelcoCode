@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-### Ogfn dev that specializes on making game servers (Formerly Backends)
+### Dev that likes working on bringing back old games like Fn and MLE
 
 ### Langs: C++, JS, C# , Py , C, TS
 
-### Contact me on Discord: Marvelco
-
-### Ero OGFN Hub: https://discord.gg/hktTCFv343
+### Contact me on Discord: Marvelco (Not available)
 
 ![Discord](https://komarev.com/ghpvc/?username=MarvelcoOGFN&color=blue)
 
