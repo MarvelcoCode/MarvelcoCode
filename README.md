@@ -4,7 +4,7 @@
 
 ### Langs: C++, JS, C# , Py , C, TS
 
-### Contact me on Discord: Marvelco (Not available)
+### Contact me on Discord: Marvelco
 
 ![Discord](https://komarev.com/ghpvc/?username=MarvelcoOGFN&color=blue)
 
