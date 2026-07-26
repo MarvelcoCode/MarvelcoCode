@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-### Reverse Engineer & Developer focused on reviving legacy games
+### Reverse Engineer & Software Developer specializing in legacy game revival and preservation
 
-- FIFA Ultimate team (14)
+#### Projects
+- FIFA Ultimate Team 14
 - OGFN
 - MLCE
 
-### Langs: C++, JS, C# , Py , C, TS
+#### Languages
+- C++, C#, C, JavaScript, TypeScript, Python
 
-### Contact me on Discord: Marvelco
+#### Contact
+- Discord: **Marvelco**
+- Twitter/X: https://x.com/MarvelcoCode
 
-![Twitter/X](https://x.com/MarvelcoCode)
+![Profile Views](https://komarev.com/ghpvc/?username=MarvelcoOGFN&color=blue)
 
-![Discord](https://komarev.com/ghpvc/?username=MarvelcoOGFN&color=blue)
-
-![Discord](https://discord.c99.nl/widget/theme-4/1348017609060389017.png)
+![Discord Status](https://discord.c99.nl/widget/theme-4/1348017609060389017.png)
